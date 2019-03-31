@@ -1,0 +1,11 @@
+1. Kvalitet vazduha u Republici Srbiji u 2017.
+https://data.gov.rs/sr/datasets/kvalitet-vazdukha-u-republitsi-srbiji/
+
+2. Registar lekova za upotrebu u humanoj medicini + promet i potrosnja
+https://data.gov.rs/sr/datasets/registar-lekova-za-upotrebu-u-khumanoj-meditsini/
+https://data.gov.rs/sr/datasets/promet-i-potroshnja-lekova-za-upotrebu-u-khumanoj-meditsini-2014/
+
+3. Opstinski pokazatelji
+https://data.gov.rs/sr/datasets/opshtinski-pokazatelji/
+
+4. APR podaci iz 2015. godine (parcijalni)
